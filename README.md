@@ -17,3 +17,7 @@ pip3 install -r requirements.txt
 
 # Execute Suppression (Requires Root)
 sudo python3 styx_oblivion.py <TARGET_IP>
+
+## ⚖️ License & Disclaimer
+This project is for **Educational and Ethical Research** purposes only. Usage for unauthorized activities is strictly prohibited. 
+Copyright (c) 2026 **HPPERR**.
